@@ -1,0 +1,15 @@
+ p {
+     font-family: "Trebuchet MS";
+     font-size: lem;
+     letter-spacing: 3px;
+     color: gray;
+ }
+ 
+ a:hover {
+     color: black;
+     text-decoration: none;
+ }
+ 
+ a:visited {
+     color: chocolate;
+ }
