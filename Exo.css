@@ -13,3 +13,18 @@
  a:visited {
      color: chocolate;
  }
+ 
+ body {
+     max-width: 90%;
+     margin: auto;
+     background: url("Earth.png") no-repeat;
+ }
+ 
+ blockquote {
+     width: 50%;
+     margin: auto;
+     font-size: 1.6em;
+     border-left: 3px solid firebrick;
+     padding: 80px 30px 80px 30px;
+     background-color: lightgrey;
+ }
