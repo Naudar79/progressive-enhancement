@@ -17,7 +17,8 @@
  body {
      max-width: 90%;
      margin: auto;
-     background: url("Earth.png") no-repeat;
+     background: linear-gradient(to bottom right, blue, red);
+     background: url("japan.jpg") no-repeat;
  }
  
  blockquote {
