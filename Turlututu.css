@@ -1,24 +1,38 @@
+/*
+* {
+    box-sizing: border-box;
+}
+*/
+
 body {
+    margin: 0;
     background-color: white;
     font-family: 'Arial', 'sans-serif';
     font-weight: lighter;
     line-height: 150%;
+    max-width: 1500px;
+    min-width: 1500px;
     width: 100%;
 }
 
 header {
     background-color: #333333;
-    width: 1500px;
-    padding-left: 15px;
+    /*padding-left: 15px;*/
 }
 
 #log {
-    margin-left: 200px;
+    margin-left: 529px;
+    padding-top: 10px;
     width: 17px;
     height: 23px;
+    background-color: #333333;
 }
 
-menu a {
+#menu {
+    background-color: #333333;
+}
+
+#menu a {
     color: white;
     text-decoration: none;
 }
@@ -59,21 +73,23 @@ menu a {
 }
 
 #man {
-    margin-left: 0%;
+    margin-top: 0px;
+    margin-left: 0px;
     padding-left: 0px;
 }
 
 #logo {
-    margin-left: 40px;
+    margin-left: 100px;
 }
 
 #titreBanner {
     color: white;
-    margin-left: 35%;
+    margin-left: 110%;
 }
 
 #start {
-    margin-left: 40%;
+    margin-left: 600px;
+    margin-bottom: 50px;
     border-radius: 10px 10px 10px 10px;
     width: 250px;
     line-height: 75px;
@@ -91,6 +107,10 @@ menu a {
 
 #phBas {
     text-align: center;
+}
+
+#part {
+    background-color: rgb(240, 233, 233);
 }
 
 #rest {
@@ -131,6 +151,10 @@ menu a {
     background-color: #333333;
 }
 
+#pieds ul li {
+    display: inline-block;
+}
+
 #pieds a {
     color: white;
     text-decoration: none;
@@ -151,4 +175,8 @@ menu a {
     background-color: #1e93cc;
     color: white;
     width: 100%;
+}
+
+#copyright {
+    margin-left: 940px;
 }
