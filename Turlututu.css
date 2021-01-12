@@ -21,14 +21,20 @@ a {
 
 #banner {
     background-color: #1e93cc;
+    width: 1500px;
 }
 
-.man {
+#man {
     float: left;
 }
 
-.logo {
+#logo {
     float: center;
+}
+
+#titreBanner {
+    float: unset;
+    color: white;
 }
 
 
