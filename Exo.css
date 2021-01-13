@@ -29,4 +29,13 @@
      border-left: 3px solid firebrick;
      padding: 80px 30px 80px 30px;
      background-color: lightgrey;
+     font-style: italic;
+ }
+ 
+ .villagers {
+     border-left: 3px solid firebrick;
+ }
+ 
+ .farmer {
+     border-left: 3px solid blue;
  }
