@@ -79,12 +79,12 @@ header {
 }
 
 #logo {
-    margin-left: 100px;
+    margin-left: 150px;
 }
 
 #titreBanner {
     color: white;
-    margin-left: 110%;
+    margin-left: 500px;
 }
 
 #start {
@@ -92,7 +92,7 @@ header {
     margin-bottom: 50px;
     border-radius: 10px 10px 10px 10px;
     width: 250px;
-    line-height: 75px;
+    line-height: 60px;
     text-align: center;
     background-color: orange;
     border-color: white;
@@ -110,14 +110,19 @@ header {
 }
 
 #part {
-    background-color: rgb(240, 233, 233);
+    background-color: lightgrey;
+}
+
+#boutons {
+    margin-top: 30px;
+    margin-bottom: 100px;
 }
 
 #rest {
     margin-left: 20%;
     border-radius: 10px 10px 10px 10px;
-    width: 250px;
-    line-height: 75px;
+    width: 200px;
+    line-height: 60px;
     text-align: center;
     background-color: midnightblue;
     color: white;
@@ -127,8 +132,8 @@ header {
 
 #docs {
     border-radius: 10px 10px 10px 10px;
-    width: 250px;
-    line-height: 75px;
+    width: 200px;
+    line-height: 60px;
     text-align: center;
     background-color: midnightblue;
     color: white;
@@ -138,8 +143,8 @@ header {
 
 #st {
     border-radius: 10px 10px 10px 10px;
-    width: 250px;
-    line-height: 75px;
+    width: 200px;
+    line-height: 60px;
     text-align: center;
     background-color: orange;
     color: white;
